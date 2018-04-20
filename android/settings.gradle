@@ -1,0 +1,3 @@
+rootProject.name = 'HotelExpress'
+
+include ':app'
